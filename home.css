@@ -1,0 +1,160 @@
+/* Remove the navbar's default rounded borders and increase the bottom margin */
+    .navbar {
+      margin-bottom: 50px;
+      border-radius: 0;
+    }
+    
+    /* Remove the jumbotron's default bottom margin */
+     .jumbotron {
+      margin-bottom: 0;
+    }
+   
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+	
+	#title{
+		background-image: url("images/bg.jpg");
+		background-position:top;
+		background-repeat: no-repeat;
+	}
+	
+	#th1{
+		color:#dddddd;
+	}
+	
+	#tp{
+		color:#aaaaaa;
+	}
+	
+	#txtinput{
+		position: relative;
+		width:400px;
+		height:40px;
+		left:0%;
+		top:5px;
+	}
+	
+	#searchLink{
+		position: relative;
+		left:0%;
+	}
+	
+	#myModal{
+		position:absolute;
+		top:10%;
+	}
+	
+	#cartModal{
+		top:200px;
+	}
+	
+	#signupModal{
+		top:-5px;
+	}
+	
+	#insertModal{
+		top:200px;
+	}
+	
+	#editModal{
+		
+		top:210px;
+	}
+	
+	#deleteModal{
+		
+		top:210px;
+	}
+	
+	#signoutModal{
+		top:210px;
+	}
+	
+	#cen_btn{
+		position: relative;
+		left:43%;
+		bottom:6px;
+	}
+	
+	#cen_btn1{
+		position: relative;
+		left:43%;
+		bottom:6px;
+	}
+	
+	#cen_btn2{
+		position: relative;
+		left:43%;
+		bottom:6px;
+	}
+	
+	#cen_btn3{
+		position: relative;
+		left:43%;
+		bottom:6px;
+	}
+	
+	#cen_btn4{
+		position: relative;
+		left:37%;
+		bottom:6px;
+	}
+	
+	#cen_btn5{
+		position: relative;
+		left:43%;
+		bottom:6px;
+	}
+	
+	#cen_btn6{
+		position: relative;
+		left:43%;
+		bottom:6px;
+	}
+	
+	#cen_btn7{
+		position: relative;
+		left:43%;
+		bottom:6px;
+	}
+
+	#loginUN{
+		position: relative;
+		left:5%;
+		width:90%;
+	}
+	
+	#loginPWD{
+		position: relative;
+		left:5%;
+		width:90%;
+	}
+	
+	#blank{
+		position: relative;
+		left:5%;
+		width:90%;
+	}
+	
+	.iteminput{
+		position: relative;
+		left:5%;
+		width:90%;
+	}
+	
+	#cateValue{
+		position: relative;
+		left:5%;
+		width:90%;
+	}
+	
+	#edCV{
+		position: relative;
+		left:5%;
+		width:90%;
+	}
+	
+	
